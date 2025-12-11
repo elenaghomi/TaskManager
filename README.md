@@ -1,6 +1,6 @@
 <div align="center">
 
-![Task Manager Project Screenshot](https://via.placeholder.com/800x400?text=Task+Manager+API+Screenshot+Place+Here)
+![Task Manager Project Screenshot](https://raw.githubusercontent.com/elenaghomi/TaskManager/refs/heads/main/Screenshot.jpg)
 
 # Task Manager API
 
